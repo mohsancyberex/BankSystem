@@ -13,5 +13,4 @@ Basic  Bank System is a simple, file-based banking system implemented in C++. It
 - **Daily Withdrawal Limit**: Withdrawals are limited to a maximum daily amount to prevent overdrafts.
 - **PIN Verification**: Ensures security before performing sensitive operations.
 
-## File Structure
 
